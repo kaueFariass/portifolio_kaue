@@ -495,8 +495,8 @@ a {
 .projetos__wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 10%;
-  margin-bottom: 5rem;
+  gap: 5%;
+  margin-bottom: 6rem;
 }
 
 .projetos__card {
