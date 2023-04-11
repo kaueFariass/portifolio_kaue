@@ -13,3 +13,4 @@ initAnimationScroll();
 initTyping();
 initMenuTransition();
 initMenuMobile();
+
