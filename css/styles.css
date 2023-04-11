@@ -110,7 +110,7 @@ nav p a {
 }
 
 nav p a:hover {
-  color: rgba(147, 88, 247, 1);
+  color: #df005d;
 }
 
 .principal,
@@ -280,7 +280,7 @@ a {
 .sobre-mim__descricao-buttons-email:hover,
 .projetos__card-button:hover {
   background-color: #272727;
-  text-shadow: 1px 1px 3px #00bbc5;
+  text-shadow: 1px 1px 3px #df005d;
 }
 
 @keyframes move {
@@ -511,7 +511,7 @@ a {
 }
 
 .voltar a {
-  color: #00d2df;
+  color: #df005d;
   font-weight: bold;
   transition: 0.3s;
 }
